@@ -16,5 +16,7 @@
         "psr-4": {
             "Zachary\\": "src"
         }
-    }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
