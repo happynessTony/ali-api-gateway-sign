@@ -1,0 +1,19 @@
+{
+    "name": "zachary/ali-api-gateway-sign",
+    "authors": [
+        {
+            "name": "zachary",
+            "email": "1049436233@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.1.*",
+      "ext-mbstring": "*",
+      "ext-curl": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Zachary": "src"
+        }
+    }
+}
